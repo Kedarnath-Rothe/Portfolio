@@ -539,19 +539,19 @@ Bio Section
 }
 
 .bio-progress-bar-2::before{
-    width: 80%;
+    width: 60%;
 }
 .bio-progress-bar-3::before{
     width: 75%;
 }
 .bio-progress-bar-4::before{
-    width: 65%;
+    width: 80%;
 }
 .bio-progress-bar-5::before{
-    width: 50%;
+    width: 75%;
 }
 .bio-progress-bar-6::before{
-    width: 75%;
+    width: 50%;
 }
 
 .bio-progress-bar span{
@@ -573,7 +573,7 @@ Bio Section
     left: 81%;
 }
 .bio-progress-bar-2 span{
-    left: 76%;
+    left: 56.5%;
 }
 
 .bio-progress-bar-3 span{
@@ -581,15 +581,15 @@ Bio Section
 }
 
 .bio-progress-bar-4 span{
-    left: 61%;
+    left: 76.5%;
 }
 
 .bio-progress-bar-5 span{
-    left: 46%;
+    left: 71.5%;
 }
 
 .bio-progress-bar-6 span{
-    left: 71%;
+    left: 46.5%;
 }
 
 /* to create the caret ^ */
@@ -642,7 +642,7 @@ portfolio section
 
  .img-overlay{
     position: relative;
-    overflow:hidden ;
+    overflow:hidden ; 
  }
 
  .img-overlay .overlay{
